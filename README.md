@@ -9,3 +9,5 @@ Also named as tuolaji, shuang sheng, ....
 Let us put Sean's name in
 
 Push from master
+
+Hi, this is Brian who is learning git. Thanks.
